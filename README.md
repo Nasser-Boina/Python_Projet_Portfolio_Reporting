@@ -1,7 +1,7 @@
 
 # Overview
 
-The portfolio analysis and reporting tool has been developed for private banks to automate the generation of quarterly portfolio analysis dashboards for their entrepreneurial clients. The tool provides information on portfolio performance, asset allocation and risk assessment. It includes a Python implementation with graphical and analytical capabilities.
+The portfolio analysis and reporting tool has been developed for clients to automate the generation of quarterly portfolio analysis dashboards for their entrepreneurial clients. The tool provides information on portfolio performance, asset allocation and risk assessment. It includes a Python implementation with graphical and analytical capabilities.
 
 # Tools I Used
 
