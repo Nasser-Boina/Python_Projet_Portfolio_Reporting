@@ -137,8 +137,8 @@ def plot_flops(self, returns, filename='flop_performers.png'):
     ...
 
 ```
-![top_performer](images/top_performer.png)
-![flop_performer](images/flop_performer.png)
+![top_performers](images/top_performers.png)
+![flop_performers](images/flop_performers.png)
 
 *These charts highlights the 5 best and 5 worst assets over the period.*
 
